@@ -1,0 +1,19 @@
+.dashboard {
+  padding: 20px;
+}
+
+.dashboard h2 {
+  margin-bottom: 20px;
+}
+
+.dashboard ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.dashboard li {
+  background-color: #e9ecef;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #dee2e6;
+}
